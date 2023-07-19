@@ -1,4 +1,6 @@
-
+                         ©nuvepro
           █▀█ █▀█ █▀█ ▀█▀   █▀▄▀█ █▀▀   █▄░█ █▀█ █░█░█
           █▀▄ █▄█ █▄█ ░█░   █░▀░█ ██▄   █░▀█ █▄█ ▀▄▀▄▀
+
 welcome to Privilege escalation lab, gain root access & collect flag.txt 
+-
